@@ -14,7 +14,7 @@
   "private": true,
   "dependencies": {
     "amorphic": "5.5.0",
-    "@havenlife/persistor": "3.2.6-beta.1",
+    "@havenlife/persistor": "3.2.6",
     "body-parser": "^1.18.3",
     "connect-redis": "3.3.3",
     "express": "^4.16.3",
