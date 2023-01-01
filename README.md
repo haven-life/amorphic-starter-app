@@ -25,4 +25,4 @@ You can lint the projects by cd'ing into each application, and after npm install
 the `npm run lint` command.
 
 You can run the unit tests in the daemon app by running the `npm test` command within `angular-daemon`. 
-You can run coverage by running `npm run coverage` within `angular-daemon`
+You can run coverage by running `npm run coverage` within `angular-daemon`test

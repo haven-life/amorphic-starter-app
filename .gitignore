@@ -9,4 +9,4 @@ yarn-error.log
 **/*/yarn-error.log
 angular-daemon/dist/
 angular-daemon/coverage/
-.nyc_output/
+.nyc_output/.git/
